@@ -25,7 +25,7 @@ My name is Shon (aka ShonP40) and I am currently working on:
 ![](https://img.shields.io/badge/|-Home%20Assistant-informational?style=flat&logo=Home%20Assistant&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-ESPHome-informational?style=flat&logo=ESPHome&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Raspberry%20Pi-informational?style=flat&logo=Raspberry%20Pi&logoColor=white&color=339933)
-![](https://img.shields.io/badge/|-ESP8266%20&%2032-informational?style=flat&logo=Espressif&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-ESP8266%20&%20ESP32-informational?style=flat&logo=Espressif&logoColor=white&color=339933)
 ### Tools
 ![](https://img.shields.io/badge/|-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ%20IDEA&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=339933)
