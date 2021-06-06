@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-My name is Shon (aka ShonP40) and I am currently working on:
-
-- <img src="https://offlinecheatbreaker.com/v/images/logo-108.png" data-canonical-src="https://offlinecheatbreaker.com/v/images/logo-108.png" width="16" height="16" /> [Offline CheatBreaker](https://offlinecheatbreaker.com)
-- <img src="https://minecraftos.tech/assets/images/5acb25-84f408117e8141a0b1ea14ae76543e6d-mv2-122x122.png" data-canonical-src="https://minecraftos.tech/assets/images/5acb25-84f408117e8141a0b1ea14ae76543e6d-mv2-122x122.png" width="16" height="16" /> [Minecraft OS](https://minecraftos.tech)
+My name is Shon (aka ShonP40) and I am currently working on <img src="https://offlinecheatbreaker.com/v/images/logo-108.png" data-canonical-src="https://offlinecheatbreaker.com/v/images/logo-108.png" width="16" height="16" /> [Offline CheatBreaker](https://offlinecheatbreaker.com)
 
 ## 📈 GitHub Stats
 [![ShonP40's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShonP40&show_icons=true&count_private=true&icon_color=339933&title_color=339933)](https://shon.codes)
