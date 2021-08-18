@@ -8,9 +8,9 @@ My name is Shon (aka ShonP40) and I am currently working on <img src="https://of
 ## 🔧 Technologies & Tools
 ### Operating systems
 ![](https://img.shields.io/badge/|-macOS-informational?style=flat&logo=Apple&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-iOS-informational?style=flat&logo=Apple&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Linux-informational?style=flat&logo=Linux&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Windows-informational?style=flat&logo=Windows&logoColor=white&color=339933)
-![](https://img.shields.io/badge/|-iOS-informational?style=flat&logo=Apple&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Android-informational?style=flat&logo=Android&logoColor=white&color=339933)
 ### Programing
 ![](https://img.shields.io/badge/|-Java-informational?style=flat&logo=Java&logoColor=white&color=339933)
