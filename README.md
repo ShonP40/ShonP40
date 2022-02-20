@@ -20,6 +20,7 @@ My name is Shon (aka ShonP40) and I am currently working on <img src="https://of
 ![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-C-informational?style=flat&logo=C&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-Bash-informational?style=flat&logo=GNU+Bash&logoColor=white&color=339933)
 ### IoT
 ![](https://img.shields.io/badge/|-Home%20Assistant-informational?style=flat&logo=Home%20Assistant&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-ESPHome-informational?style=flat&logo=ESPHome&logoColor=white&color=339933)
