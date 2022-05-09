@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Shon
 
-My name is Shon (aka ShonP40) and I am currently working on <img src="https://offlinecheatbreaker.com/v/images/logo-108.png" data-canonical-src="https://offlinecheatbreaker.com/v/images/logo-108.png" width="16" height="16" /> [Offline CheatBreaker](https://offlinecheatbreaker.com)
+- I am currently working on <img src="https://offlinecheatbreaker.com/v/images/logo-108.png" data-canonical-src="https://offlinecheatbreaker.com/v/images/logo-108.png" width="16" height="16" /> [Offline CheatBreaker](https://offlinecheatbreaker.com)
 
 ## 📈 GitHub Stats
 [![ShonP40's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShonP40&show_icons=true&count_private=true&icon_color=339933&title_color=339933)](https://shon.codes)
