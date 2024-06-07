@@ -15,8 +15,9 @@ I am currently working on:
 ![](https://img.shields.io/badge/|-Windows-informational?style=flat&logo=Windows&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Android-informational?style=flat&logo=Android&logoColor=white&color=339933)
 ### Development
-![](https://img.shields.io/badge/|-Java-informational?style=flat&logo=Java&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-Java-informational?style=flat&logo=Oracle&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&logoColor=white&color=339933)
