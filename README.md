@@ -10,16 +10,16 @@ I am currently working on:
 ## 🔧 Technologies & Tools
 ### Operating systems
 ![](https://img.shields.io/badge/|-macOS-informational?style=flat&logo=Apple&logoColor=white&color=339933)
-![](https://img.shields.io/badge/|-iOS-informational?style=flat&logo=Apple&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-iOS/iPadOS-informational?style=flat&logo=Apple&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Linux-informational?style=flat&logo=Linux&logoColor=white&color=339933)
-![](https://img.shields.io/badge/|-Windows-informational?style=flat&logo=Windows&logoColor=white&color=339933)
+![](https://custom-icon-badges.demolab.com/badge/|-Windows-40993e?logo=windows11&logoColor=white)
 ![](https://img.shields.io/badge/|-Android-informational?style=flat&logo=Android&logoColor=white&color=339933)
 ### Development
-![](https://img.shields.io/badge/|-Java-informational?style=flat&logo=Oracle&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-Java-informational?style=flat&logo=openjdk&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=339933)
-![](https://img.shields.io/badge/|-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=339933)
+![](https://img.shields.io/badge/|-CSS-informational?style=flat&logo=CSS&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Python-informational?style=flat&logo=Python&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-C-informational?style=flat&logo=C&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-C++-informational?style=flat&logo=CPlusPlus&logoColor=white&color=339933)
@@ -32,7 +32,7 @@ I am currently working on:
 ![](https://img.shields.io/badge/|-ESP8266%20&%20ESP32-informational?style=flat&logo=Espressif&logoColor=white&color=339933)
 ### Tools
 ![](https://img.shields.io/badge/|-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJ%20IDEA&logoColor=white&color=339933)
-![](https://img.shields.io/badge/|-VSCode-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=339933)
+![](https://custom-icon-badges.demolab.com/badge/|-VS%20Code-40993e.svg?logo=vsc&logoColor=white)
 ![](https://img.shields.io/badge/|-Docker-informational?style=flat&logo=Docker&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-CloudFlare-informational?style=flat&logo=CloudFlare&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/|-Proxmox-informational?style=flat&logo=Proxmox&logoColor=white&color=339933)
