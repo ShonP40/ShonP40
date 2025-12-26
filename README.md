@@ -5,7 +5,7 @@ I am currently working on:
 - <img src="https://raw.githubusercontent.com/ShonP40/Car-Assistant/master/assets/logo/Car%20Assistant.svg" data-canonical-src="https://raw.githubusercontent.com/ShonP40/Car-Assistant/master/assets/logo/Car%20Assistant.svg" width="16" height="16" /> [Car Assistant](https://github.com/ShonP40/Car-Assistant)
 
 ## 📈 GitHub Stats
-[![ShonP40's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShonP40&show_icons=true&count_private=true&icon_color=339933&title_color=339933)](https://shon.codes)
+[![ShonP40's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ShonP40&show_icons=true&count_private=true&icon_color=339933&title_color=339933)](https://shon.codes)
 
 ## 🔧 Technologies & Tools
 ### Operating systems
